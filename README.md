@@ -1,4 +1,6 @@
-# Things to remember
+# Useful Stuff
+
+### Java
 
 1. Range 
 
@@ -11,4 +13,14 @@
 | long | -2 <sup>63</sup> to 2 <sup>63</sup>-1 | -9.22 x 10<sup>18</sup> to 9.22 x 10<sup>18</sup> |
 | float, double | [here](https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.2.3) | --- |
 | char | 0 to 65,535 | '\u0000' to '\uffff' |
+
+### Git
+
+1.  [Configuring Git to handle line endings](https://help.github.com/en/github/using-git/configuring-git-to-handle-line-endings)
+2. [Force “git push” to overwrite remote files](https://stackoverflow.com/questions/10510462/force-git-push-to-overwrite-remote-files)
+
+###  Markdown
+
+1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
+2. [Markdown Cheatsheet Squarespace](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
 
