@@ -1,13 +1,16 @@
 # Useful Stuff
 
-<!-- TOC -->autoauto- [Useful Stuff](#useful-stuff)auto        - [Java](#java)auto        - [Git](#git)auto        - [Markdown](#markdown)autoauto<!-- /TOC -->
+- ### Index
+
+  - [Java](#java)   
+
+  - [Git](#git)
+  - [Markdown](#markdown)
 
 
-
-### Java
+## Java
 
 1. Range 
-
 
 | Type |      Range       | Alternative Range |
 | ---- | :--------------: | :----------------------------------: |
@@ -20,12 +23,12 @@
 
 2. [Fast I/O in Java in Competitive Programming](https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/)
 
-### Git
+## Git
 
 1.  [Configuring Git to handle line endings](https://help.github.com/en/github/using-git/configuring-git-to-handle-line-endings)
 2. [Force “git push” to overwrite remote files](https://stackoverflow.com/questions/10510462/force-git-push-to-overwrite-remote-files)
 
-###  Markdown
+##  Markdown
 
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 2. [Markdown Cheatsheet Squarespace](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
