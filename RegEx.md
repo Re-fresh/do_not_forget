@@ -25,9 +25,28 @@
 |    **\w**    | alphanumeric character [a-zA-Z0-9_]                          |
 |    **\W**    | non-alphanumeric character                                   |
 |    **\Z**    | Matches if the specified characters are at the end of a string |
-|              |                                                              |
 
 
+
+#### Python  
+
+```python
+import re
+
+re.findall(regex_pattern, string)					# returns a list of strings containing all matches
+re.split(regex_pattern, string) 					# splits the string where there is a match
+re.sub(regex_pattern, replace, string)				# matched occurrences are replaced with replace variable value
+re.subn(regex_pattern, replace, string)				# returns a tuple of 2 items: (new string, no.of substitutions made)
+re.search(regex_pattern, string)					# returns the first location where the pattern matches
+
+Match object
+
+match.group(index) 				# returns the matched part of the string if no index is specified
+match.start()					# returns index of the starting char of the matched substring
+match.end()						# returns the end index of the matched substring.
+match.span()					# returns a 2 item tuple: (match.start(), match.end())
+match.re						# returns regex pattern
+match.string					# returns original string
+```
 
 Source: [py4e](py4e.com), [programiz](https://www.programiz.com/python-programming/regex) 
-
