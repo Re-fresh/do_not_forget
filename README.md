@@ -1,8 +1,8 @@
 # Index
 
--  [Java](#./Java.md)
+-  [Java](./Java.md)
 
-- [Git](#./Git.md)
+- [Git](./Git.md)
 
 - [Markdown](./Markdown.md)
 
