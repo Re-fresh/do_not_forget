@@ -43,9 +43,9 @@ re.search(regex_pattern, string)		# returns the first location where the pattern
 
 match.group(index) 			# returns the matched part of the string if no index is specified
 match.start()				# returns index of the starting char of the matched substring
-match.end()				  	# returns the end index of the matched substring
+match.end()				# returns the end index of the matched substring
 match.span()				# returns a 2 item tuple: (match.start(), match.end())
-match.re					# returns regex pattern
+match.re				# returns regex pattern
 match.string				# returns original string
 ```
 
