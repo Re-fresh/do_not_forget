@@ -1,11 +1,14 @@
-# Useful Stuff
+# Index
 
-- ### Index
+-  [Java](#./Java.md)
 
-  - [Java](#java)   
-- [Git](#git)
-  - [Markdown](#markdown)
-  - [RegEx](./RegEx.md)
+- [Git](#./Git.md)
+
+- [Markdown](./Markdown.md)
+
+- [RegEx](./RegEx.md)
+
+  
 
 
 
